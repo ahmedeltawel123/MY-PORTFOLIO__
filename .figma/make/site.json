@@ -1,0 +1,10 @@
+{
+  "description": "Automates tasks and executes instructions from uploaded files, streamlining workflows for users seeking efficient file-based operations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
